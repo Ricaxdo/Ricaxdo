@@ -34,7 +34,6 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub%20Copilot-000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
 </p>
 
 ---
@@ -54,9 +53,3 @@
 
 ---
 
-## 📫 Contacto
-<p align="center">
-  <a href="https://github.com/Ricaxdo">
-    <img src="https://img.shields.io/badge/GitHub-Ricaxdo-181717?style=for-the-badge&logo=github" />
-  </a>
-</p>
