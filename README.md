@@ -5,7 +5,7 @@
 ---
 
 ## 💻 Lo que hago
-- Desarrollo interfaces web modernas con **HTML**, **CSS (BEM)** y **JavaScript (ES6+)**
+- Desarrollo interfaces web/moviles modernas con **HTML**, **CSS (BEM)** y **JavaScript (ES6+)**
 - Trabajo con **APIs**, **frameworks modernos** y **arquitectura modular** para proyectos escalables
 - Me encanta mejorar el **diseño** y la **experiencia de usuario (UX)**
 
