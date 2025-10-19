@@ -7,7 +7,6 @@
 ## 🚀 Sobre mí
 Soy un **Frontend Developer** con enfoque en **React y React Native**, combinando una mentalidad de ingeniería con un fuerte interés por el **diseño y la experiencia de usuario (UX)**.  
 Actualmente colaboro en una startup (*DataStai*) desarrollando herramientas digitales para micro-negocios, donde trabajo en la creación de **interfaces escalables y de alto rendimiento**.
-
 Me gusta entender **el porqué detrás de cada interacción**, construir **productos limpios, accesibles y eficientes**, y seguir aprendiendo nuevas tecnologías que mejoren la manera en que las personas usan la web.
 
 ---
@@ -50,8 +49,6 @@ Me gusta entender **el porqué detrás de cada interacción**, construir **produ
 
 ## 🧰 En lo que estoy trabajando
 - 🧱 **DataStai** – App web y móvil para productividad en micro-negocios.  
-- 📱 **RoutineScreen** – Aplicación de entrenamiento con control de series, peso y progresos en React Native.  
-- 🧑‍💻 Migrando proyectos clásicos a **React + Vite**, explorando mejores prácticas de composición y hooks personalizados.  
 
 ---
 
