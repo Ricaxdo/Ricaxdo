@@ -1,60 +1,95 @@
-<!-- 👋 Encabezado principal -->
-<h1 align="center">👋 Hola, soy Ricardo Castro</h1>
-<h3 align="center">💻 Frontend Developer | React.js · React Native · Next.js | Diseño + Tecnología</h3>
+# Ricardo Castro
+
+Frontend Engineer specialized in React, React Native and Next.js, with a strong focus on product quality, UI architecture and user experience.
 
 ---
 
-## 🚀 Sobre mí
-Soy un **Frontend Developer** con enfoque en **React y React Native**, combinando una mentalidad de ingeniería con un fuerte interés por el **diseño y la experiencia de usuario (UX)**.  
-Actualmente colaboro en una startup (*DataStai*) desarrollando herramientas digitales para micro-negocios, donde trabajo en la creación de **interfaces escalables y de alto rendimiento**.
-Me gusta entender **el porqué detrás de cada interacción**, construir **productos limpios, accesibles y eficientes**, y seguir aprendiendo nuevas tecnologías que mejoren la manera en que las personas usan la web.
+## About me
+
+I am a frontend-focused engineer who builds **production-grade interfaces** with a strong emphasis on **architecture, scalability and user experience**.
+
+My work sits at the intersection of **engineering and design**. I care deeply about how products feel, how they evolve over time, and how clean, maintainable systems enable teams to move faster without sacrificing quality.
+
+I currently collaborate with a startup (DataStai), building web and mobile tools for micro-businesses, where I work end-to-end: from UI architecture and component systems to application logic and performance considerations.
+
+I value clarity over complexity, thoughtful abstractions over quick fixes, and products that solve real problems in a simple and elegant way.
 
 ---
 
-## 🧠 Stack y herramientas
+## Technical focus
 
-### ⚛️ Frameworks y librerías
-<p>
-  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-</p>
+### Frontend & UI Engineering
+- React.js, Next.js (App Router)
+- React Native (Expo)
+- Component-driven architecture
+- State management and data flow design
+- UI performance and interaction polish
 
-### 💻 Lenguajes y fundamentos
-<p>
-  <img src="https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/BEM-000000?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### Languages & fundamentals
+- TypeScript (in progress, production-oriented usage)
+- JavaScript (ES6+)
+- HTML5, CSS3
+- Modular CSS, BEM methodology
+- Responsive and adaptive layouts
 
-### ⚙️ Herramientas y diseño
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
-</p>
+### Tooling & workflow
+- Git & GitHub (branching, reviews, clean history)
+- Figma (design-to-code workflows)
+- VS Code
+- API consumption and integration
+- Environment-based configuration (dev / prod)
 
 ---
 
-## 🧩 Filosofía de desarrollo
-> *“Clean, functional, and user-focused — every line of code should improve the experience.”*
+## Development philosophy
 
-- 💡 Creo en el **diseño funcional**: código limpio, interfaces intuitivas y una arquitectura que crezca con el proyecto.  
-- 🧩 Me gusta trabajar con **componentes reutilizables**, patrones modulares y animaciones que aporten fluidez.  
-- 🧠 Busco equilibrio entre **rendimiento, diseño y mantenibilidad**.  
+I approach development with a **product mindset**.
+
+- I prioritize **clear architecture** over premature abstraction  
+- I design **reusable, composable components** that scale with the product  
+- I focus on **UX details**: spacing, transitions, feedback, and accessibility  
+- I aim for a balance between **performance, readability and long-term maintainability**
+
+Every line of code should have a reason to exist.
+
+---
+
+## Current work
+
+**DataStai**  
+Web and mobile applications focused on productivity and organization for micro-businesses.
+
+Responsibilities include:
+- UI architecture and component systems
+- Feature development across web and mobile
+- UX improvements and interaction design
+- Technical decisions oriented to scalability
 
 ---
 
-## 🧰 En lo que estoy trabajando
-- 🧱 **DataStai** – App web y móvil para productividad en micro-negocios.  
+## Personal projects
+
+**StaiFocus**  
+A fullstack task and workspace management application.
+
+- Next.js frontend with modular UI architecture
+- Express + TypeScript backend
+- JWT-based authentication
+- Personal and shared workspaces
+- Designed with scalability and real-world usage in mind
 
 ---
 
-## 🌱 Próximos objetivos
-- Profundizar en **TypeScript** y **Next.js 14 (App Router)**.  
-- Optimizar **performance y testing** en proyectos React Native.  
-- Construir un **portafolio técnico interactivo** que combine UI/UX y animaciones.  
+## What I am focusing on next
+
+- Deepening expertise in TypeScript across frontend and backend
+- Advanced Next.js patterns and performance optimization
+- Testing strategies for React and React Native
+- Building a technical portfolio that showcases UI systems, architecture decisions and real product thinking
 
 ---
+
+## Contact
+
+- GitHub: https://github.com/your-username
+- LinkedIn: https://linkedin.com/in/your-profile
