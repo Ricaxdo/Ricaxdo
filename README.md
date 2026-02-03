@@ -87,9 +87,3 @@ A fullstack task and workspace management application.
 - Testing strategies for React and React Native
 - Building a technical portfolio that showcases UI systems, architecture decisions and real product thinking
 
----
-
-## Contact
-
-- GitHub: https://github.com/your-username
-- LinkedIn: https://linkedin.com/in/your-profile
