@@ -1,89 +1,46 @@
 # Ricardo Castro
+**Frontend Developer · React / Next.js / TypeScript · Jalisco, México**
 
-Frontend Engineer specialized in React, React Native and Next.js, with a strong focus on product quality, UI architecture and user experience.
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+
+Frontend engineer building production-grade web and mobile interfaces. I care about component architecture, UI performance, and the details that make a product feel right — not just work.
+
+Co-founder and sole frontend engineer at **DataStai**, where I built and shipped a SaaS fitness platform: a Next.js web app for coaches and a React Native mobile app for clients, both live on App Store and Google Play.
+
+> I approach every interface as a system — designed to scale, maintained to last, and felt by every user.
 
 ---
 
-## About me
+## Currently shipping
 
-I am a frontend-focused engineer who builds **production-grade interfaces** with a strong emphasis on **architecture, scalability and user experience**.
+**DataStai · Fitness SaaS Platform**
+Dual-product platform for independent fitness coaches. Web dashboard (Next.js) for client and plan management. Mobile app (React Native) for workout and nutrition tracking. Beta, live on both stores.
+`Next.js` `React Native` `TypeScript` `Node.js` `MongoDB` `Figma`
 
-My work sits at the intersection of **engineering and design**. I care deeply about how products feel, how they evolve over time, and how clean, maintainable systems enable teams to move faster without sacrificing quality.
-
-I currently collaborate with a startup (DataStai), building web and mobile tools for micro-businesses, where I work end-to-end: from UI architecture and component systems to application logic and performance considerations.
-
-I value clarity over complexity, thoughtful abstractions over quick fixes, and products that solve real problems in a simple and elegant way.
+**StaiFocus · Task & Workspace Management**
+Fullstack productivity app with personal and shared workspaces. JWT auth, modular UI architecture, Express + TypeScript backend. Deployed and open source.
+`Next.js` `TypeScript` `Express` `MongoDB` `JWT`
 
 ---
 
 ## Technical focus
 
-### Frontend & UI Engineering
-- React.js, Next.js (App Router)
-- React Native (Expo)
-- Component-driven architecture
-- State management and data flow design
-- UI performance and interaction polish
+**Frontend & UI Engineering**
+React.js · Next.js App Router · React Native (Expo) · TypeScript · Component architecture · Responsive design · UI performance
 
-### Languages & fundamentals
-- TypeScript (in progress, production-oriented usage)
-- JavaScript (ES6+)
-- HTML5, CSS3
-- Modular CSS, BEM methodology
-- Responsive and adaptive layouts
-
-### Tooling & workflow
-- Git & GitHub (branching, reviews, clean history)
-- Figma (design-to-code workflows)
-- VS Code
-- API consumption and integration
-- Environment-based configuration (dev / prod)
+**Tooling & workflow**
+Git / GitHub · Figma · Node.js · REST APIs · App Store & Play Store deployment
 
 ---
 
-## Development philosophy
-
-I approach development with a **product mindset**.
-
-- I prioritize **clear architecture** over premature abstraction  
-- I design **reusable, composable components** that scale with the product  
-- I focus on **UX details**: spacing, transitions, feedback, and accessibility  
-- I aim for a balance between **performance, readability and long-term maintainability**
-
-Every line of code should have a reason to exist.
+## What I'm focused on next
+Advanced TypeScript patterns · Next.js performance optimization · Testing strategies for React & React Native · UI systems and design tokens
 
 ---
 
-## Current work
-
-**DataStai**  
-Web and mobile applications focused on productivity and organization for micro-businesses.
-
-Responsibilities include:
-- UI architecture and component systems
-- Feature development across web and mobile
-- UX improvements and interaction design
-- Technical decisions oriented to scalability
-
----
-
-## Personal projects
-
-**StaiFocus**  
-A fullstack task and workspace management application.
-
-- Next.js frontend with modular UI architecture
-- Express + TypeScript backend
-- JWT-based authentication
-- Personal and shared workspaces
-- Designed with scalability and real-world usage in mind
-
----
-
-## What I am focusing on next
-
-- Deepening expertise in TypeScript across frontend and backend
-- Advanced Next.js patterns and performance optimization
-- Testing strategies for React and React Native
-- Building a technical portfolio that showcases UI systems, architecture decisions and real product thinking
-
+📍 Jalisco, México · Open to remote & hybrid roles
